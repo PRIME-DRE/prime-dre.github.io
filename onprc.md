@@ -1,7 +1,6 @@
 # PRIME-DRE supports the Oregon National Primate Research Center
 
-The Oregon National Primate Center ([ONPRC](https://www.ohsu.edu/onprc)) is currently at risk due to an [active media campaign](https://www.pcrm.org/onprc) suggesting that 
-the State of Oregon should pressure Oregon Health Sciences University (OHSU) into closing the primate center. As PRIME-DRE, we support the valuable work of the ONPRC and we will send the following letter of support to the Governor of Oregon. We ask you to co-sign this letter in support of the National Primate Centers in general, and ONPRC in particular.
+The Oregon National Primate Center ([ONPRC](https://www.ohsu.edu/onprc)) is currently at risk due to active media campaign from the Physicians Committee for Responsible Medicine that is perpetuating anti-science messaging and agendas, and suggesting that the State of Oregon should pressure Oregon Health Sciences University (OHSU) into closing the primate center. As PRIME-DRE, we support the valuable work of the ONPRC and we will send the following letter of support to the Governor of Oregon and Oregon officials. We ask you to co-sign this letter in support of the National Primate Centers in general, and ONPRC in particular.
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
 
@@ -16,7 +15,7 @@ of primate research data and resources, we are writing in strong support of the 
 and the productive re-use of those data to reduce the numbers of animals needed in future studies. We emphasize the profound impact its closure would have on biomedical research, 
 particularly in understanding early-life and lifespan health.  </i>
      
-<i>The ONPRC occupies a critical and unique position in biomedical science and towards our mission of open data sharing. Its extensive primate cohorts and state-of-the-art research 
+<i>The ONPRC occupies a critical and unique position in biomedical science and towards our mission of open data sharing. Its extensive primate colony and state-of-the-art research 
 infrastructure provide unparalleled capacity for studies that are otherwise impossible. Nonhuman primate (NHP) models are indispensable for investigating complex biological and 
 neurological conditions that profoundly affect human health, particularly those rooted in early-life development that manifest significantly later in life, including Alzheimer's, 
 cardiovascular disease, diabetes, and mental health disorders.  </i>
