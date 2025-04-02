@@ -7,7 +7,7 @@ the State of Oregon should pressure Oregon Health Sciences University (OHSU) int
 
 ---
      
-<i>Dear Gov. Kotek and Oregon Officials,    
+<p><i>Dear Gov. Kotek and Oregon Officials,    
      
 On behalf of the Primate Data and Resource Exchange (PRIME-DRE), an international collaborative initiative dedicated to advancing biomedical research through transparent sharing 
 of primate research data and resources, we are writing in strong support of the Oregon National Primate Research Center (ONPRC). 
@@ -40,6 +40,6 @@ We strongly encourage you to reaffirm your support for ONPRC, recognizing its in
 advocating for ethical, transparent, and scientifically rigorous NHP research as conducted by ONPRC and would welcome any opportunity to discuss this further.
      
 The PRIME-DRE Team,    
-& the undersigned individuals </i>
+& the undersigned individuals </i></p>
 
 ---
