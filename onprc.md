@@ -1,14 +1,14 @@
 # PRIME-DRE supports the Oregon National Primate Research Center
 
 The Oregon National Primate Center ([ONPRC](https://www.ohsu.edu/onprc)) is currently at risk due to an [active media campaign](https://www.pcrm.org/onprc) suggesting that 
-the State of Oregon should pressure Oregon Health Sciences University (OHSU) into closing the primate center. 
-     
-As PRIME-DRE, we support the valuable work of the ONPRC and we will send the following letter of support to the Governor of Oregon. 
-We ask you to co-sign this letter in support of the National Primate Centers in general, and ONPRC in particular.
+the State of Oregon should pressure Oregon Health Sciences University (OHSU) into closing the primate center. As PRIME-DRE, we support the valuable work of the ONPRC and we will send the following letter of support to the Governor of Oregon. We ask you to co-sign this letter in support of the National Primate Centers in general, and ONPRC in particular.
 
-[You can sign in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
+[You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
+
+---
      
-*Dear Gov. Kotek and Oregon Officials,
+<i>Dear Gov. Kotek and Oregon Officials,    
+     
 On behalf of the Primate Data and Resource Exchange (PRIME-DRE), an international collaborative initiative dedicated to advancing biomedical research through transparent sharing 
 of primate research data and resources, we are writing in strong support of the Oregon National Primate Research Center (ONPRC). 
      
@@ -39,5 +39,7 @@ on Oregon’s research community but on public health worldwide.
 We strongly encourage you to reaffirm your support for ONPRC, recognizing its indispensable role in advancing medical knowledge and improving lives. PRIME-DRE remains committed to 
 advocating for ethical, transparent, and scientifically rigorous NHP research as conducted by ONPRC and would welcome any opportunity to discuss this further.
      
-The PRIME-DRE Team,
-& the undersigned individuals*
+The PRIME-DRE Team,    
+& the undersigned individuals </i>
+
+---
