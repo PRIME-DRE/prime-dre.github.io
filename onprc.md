@@ -1,6 +1,6 @@
 # PRIME-DRE supports the Oregon National Primate Research Center
 
-The Oregon National Primate Center ([ONPRC](https://www.ohsu.edu/onprc)) is currently at risk due to active media campaign from the Physicians Committee for Responsible Medicine that is perpetuating anti-science messaging and agendas, and suggesting that the State of Oregon should pressure Oregon Health Sciences University (OHSU) into closing the primate center. As PRIME-DRE, we support the valuable work of the ONPRC and we will send the following letter of support to the Governor of Oregon and Oregon officials. We ask you to co-sign this letter in support of the National Primate Centers in general, and ONPRC in particular.
+The Oregon National Primate Center ([ONPRC](https://www.ohsu.edu/onprc)) is currently at risk due to active media campaign from the Physicians Committee for Responsible Medicine that is perpetuating anti-science messaging and agendas, and suggesting that the State of Oregon should pressure Oregon Health Sciences University (OHSU) into closing the primate center ([read more](https://now.ohsu.edu/post/ohsu-statement-pcrm-ad-campaign/f329d56e-ad76-4c3b-836f-7da73a6e715b)). As PRIME-DRE, we support the valuable work of the ONPRC and we will send the following letter of support to the Governor of Oregon and Oregon officials. We ask you to co-sign this letter in support of the National Primate Centers in general, and ONPRC in particular.
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
 
