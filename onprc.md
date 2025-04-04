@@ -28,46 +28,166 @@ The PRIME-DRE Team,
 ---
 
 ### Signed by (2025-04-04)
-<p></p>     
-<b>	Alexandre R. Franco	</b>	</br>	Research Scientist	</br>	Nathan Kline Institute for Psychiatric Research		</br></br>
-<b>	Andrew Fox	</b>	</br>	Associate Professor	</br>	University of California, Davis		</br></br>
-<b>	Alessandro Zanini	</b>	</br>	Postdoctoral fellow	</br>	Western University		</br></br>
-<b>	Nicola Palomero-Gallagher	</b>	</br>	Senior scientist	</br>	Research Centre Jülich		</br></br>
-<b>	Anonymous	</b>	</br>	Professor 	</br>	n/a		</br></br>
-<b>	Jerome Sallet 	</b>	</br>	Principal Investigator (CRCN INSERM)	</br>	INSERM 		</br></br>
-<b>	Caspar Schwiedrzik	</b>	</br>	Professor of Cognitive Neurobiology	</br>	Ruhr-University Bochum & German Primate Center		</br></br>
-<b>	Alison Weiss	</b>	</br>	Assistant Professor	</br>	Oregon Health & Science University		</br></br>
-<b>	Catherine Elorette	</b>	</br>	Instructor	</br>	Icahn School of Medicine at Mount Sinai		</br></br>
-<b>	Katja Heuer	</b>	</br>	Postdoctoral researcher	</br>	Institut Pasteur		</br></br>
-<b>	Anonymous	</b>	</br>	PhD Student	</br>	n/a		</br></br>
-<b>	Chris Klink	</b>	</br>	Senior Scientist	</br>	Netherlands Institute for Neuroscience		</br></br>
-<b>	Sabine Kastner	</b>	</br>	Professor	</br>	Princeton University		</br></br>
-<b>	Renee Hartig	</b>	</br>	Research Scientist	</br>	NY-based neuroscientist 		</br></br>
-<b>	Justine Clery	</b>	</br>	Assistant professor	</br>	McGill University		</br></br>
-<b>	Steve Frey	</b>	</br>	Research Scientist	</br>	McGill University		</br></br>
-<b>	Anonymous	</b>	</br>	PhD candidate	</br>	n/a		</br></br>
-<b>	Andrew Spencer	</b>	</br>	Product Development Manager	</br>	Axoft, Inc.		</br></br>
-<b>	Mar Sanchez	</b>	</br>	Professor	</br>	Dept. of Psychiatry and Behavioral Sciences		</br></br>
-<b>	Anonymous	</b>	</br>	Associate Professor	</br>	n/a		</br></br>
-<b>	Fadila Hadj-Bouziane	</b>	</br>	Principal Investigator	</br>	CNRS		</br></br>
-<b>	Koki Mimura 	</b>	</br>	Section Chief	</br>	National Center of Neurology and Psychiatry, Japan		</br></br>
-<b>	Jake Westerberg	</b>	</br>	Senior Researcher	</br>	Netherlands Institute for Neuroscience		</br></br>
-<b>	Ilaria	</b>	</br>	Assistant Professor	</br>	University of Geneva		</br></br>
-<b>	Anonymous	</b>	</br>	Senior Lecturer	</br>	n/a		</br></br>
-<b>	Raymundo Baez Mendoza	</b>	</br>	Group Leader	</br>	German Primate Center		</br></br>
-<b>	Stefan Treue	</b>	</br>	Prof. for Biopsychology and Cognitive Neuroscience	</br>	Goettingen University and German Primate Center		</br></br>
-<b>	Pablo CASTRO	</b>	</br>	PhD Student	</br>	NeuroSpin, CEA		</br></br>
-<b>	Charlie Wilson	</b>	</br>	Tenured research scientist	</br>	INSERM		</br></br>
-<b>	AMIEZ	</b>	</br>	DR2 CNRS	</br>	INSERM U1208		</br></br>
-<b>	Alexander Gail	</b>	</br>	Professor	</br>	German Primate Center		</br></br>
-<b>	Emmanuel Procyk	</b>	</br>	Director of Research	</br>	CNRS		</br></br>
-<b>	Simona Vaitekunaite	</b>	</br>	Research assistant 	</br>	University of Fribourg		</br></br>
-<b>	Elena Borra	</b>	</br>	Associate Professor	</br>	University of Parma		</br></br>
-<b>	Anonymous	</b>	</br>	n/a	</br>	n/a		</br></br>
-<b>	Julien Sein	</b>	</br>	Research Engineer	</br>	CNRS		</br></br>
-<b>	Suzanne Haber	</b>	</br>	Professor	</br>	University of Rochester		</br></br>
-<b>	Roberto Toro	</b>	</br>	Research director	</br>	Institut Pasteur		</br></br>
-<b>	Christopher Kroenke	</b>	</br>	Professor of Neuroscience	</br>	ONPRC		</br></br>
-<b>	Amir Shmuel	</b>	</br>	Professor	</br>	McGill University		</br></br>
-<b>	Sune Jespersen	</b>	</br>	Professor	</br>	Aarhus University, Denmark		</br></br>
-</p> 
+**Alexandre R. Franco**        
+Research Scientist    
+Nathan Kline Institute for Psychiatric Research                
+
+**Andrew Fox**        
+Associate Professor    
+University of California, Davis                
+
+**Alessandro Zanini**        
+Postdoctoral fellow    
+Western University                
+
+**Nicola Palomero-Gallagher**        
+Senior scientist    
+Research Centre Jülich                
+
+**Anonymous**        
+Professor     
+n/a                
+
+**Jerome Sallet**        
+Principal Investigator (CRCN INSERM)    
+INSERM                 
+
+**Caspar Schwiedrzik**        
+Professor of Cognitive Neurobiology    
+Ruhr-University Bochum & German Primate Center                
+
+**Alison Weiss**        
+Assistant Professor    
+Oregon Health & Science University                
+
+**Catherine Elorette**        
+Instructor    
+Icahn School of Medicine at Mount Sinai                
+
+**Katja Heuer**        
+Postdoctoral researcher    
+Institut Pasteur                
+
+**Anonymous**        
+PhD Student    
+n/a                
+
+**Chris Klink**        
+Senior Scientist    
+Netherlands Institute for Neuroscience                
+
+**Sabine Kastner**        
+Professor    
+Princeton University                
+
+**Renee Hartig**        
+Research Scientist    
+NY-based neuroscientist                 
+
+**Justine Clery**        
+Assistant professor    
+McGill University                
+
+**Steve Frey**        
+Research Scientist    
+McGill University                
+
+**Anonymous**        
+PhD candidate    
+n/a                
+
+**Andrew Spencer**        
+Product Development Manager    
+Axoft, Inc.                
+
+**Mar Sanchez**        
+Professor    
+Dept. of Psychiatry and Behavioral Sciences                
+
+**Anonymous**        
+Associate Professor    
+n/a                
+
+**Fadila Hadj-Bouziane**        
+Principal Investigator    
+CNRS                
+
+**Koki Mimura**        
+Section Chief    
+National Center of Neurology and Psychiatry, Japan                
+
+**Jake Westerberg**        
+Senior Researcher    
+Netherlands Institute for Neuroscience                
+
+**Ilaria**        
+Assistant Professor    
+University of Geneva                
+
+**Anonymous**        
+Senior Lecturer    
+n/a                
+
+**Raymundo Baez Mendoza**        
+Group Leader    
+German Primate Center                
+
+**Stefan Treue**        
+Prof. for Biopsychology and Cognitive Neuroscience    
+Goettingen University and German Primate Center                
+
+**Pablo CASTRO**        
+PhD Student    
+NeuroSpin, CEA                
+
+**Charlie Wilson**        
+Tenured research scientist    
+INSERM                
+
+**AMIEZ**        
+DR2 CNRS    
+INSERM U1208                
+
+**Alexander Gail**        
+Professor    
+German Primate Center                
+
+**Emmanuel Procyk**        
+Director of Research    
+CNRS                
+
+**Simona Vaitekunaite**        
+Research assistant     
+University of Fribourg                
+
+**Elena Borra**        
+Associate Professor    
+University of Parma                
+
+**Anonymous**        
+n/a    
+n/a                
+
+**Julien Sein**        
+Research Engineer    
+CNRS                
+
+**Suzanne Haber**        
+Professor    
+University of Rochester                
+
+**Roberto Toro**        
+Research director    
+Institut Pasteur                
+
+**Christopher Kroenke**        
+Professor of Neuroscience    
+ONPRC                
+
+**Amir Shmuel**        
+Professor    
+McGill University                
+
+**Sune Jespersen**        
+Professor    
+Aarhus University, Denmark                
