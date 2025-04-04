@@ -26,6 +26,8 @@ We strongly encourage you to reaffirm your support for ONPRC, recognizing its in
 The PRIME-DRE Team,    
 & the undersigned individuals
 
+[You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
+
 ---
 
 ### Signed by (2025-04-04)
@@ -192,3 +194,5 @@ McGill University
 **Sune Jespersen**        
 Professor    
 Aarhus University, Denmark                
+
+[You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
