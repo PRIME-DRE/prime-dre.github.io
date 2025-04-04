@@ -28,7 +28,7 @@ The PRIME-DRE Team,
 ---
 
 ### Signed by (2025-04-04)
-     
+<p></p>     
 <b>	Alexandre R. Franco	</b>	</br>	Research Scientist	</br>	Nathan Kline Institute for Psychiatric Research		</br></br>
 <b>	Andrew Fox	</b>	</br>	Associate Professor	</br>	University of California, Davis		</br></br>
 <b>	Alessandro Zanini	</b>	</br>	Postdoctoral fellow	</br>	Western University		</br></br>
@@ -70,3 +70,4 @@ The PRIME-DRE Team,
 <b>	Christopher Kroenke	</b>	</br>	Professor of Neuroscience	</br>	ONPRC		</br></br>
 <b>	Amir Shmuel	</b>	</br>	Professor	</br>	McGill University		</br></br>
 <b>	Sune Jespersen	</b>	</br>	Professor	</br>	Aarhus University, Denmark		</br></br>
+</p> 
