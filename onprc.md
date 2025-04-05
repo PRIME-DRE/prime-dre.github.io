@@ -489,5 +489,28 @@ Unaffiliated with OHSU or ONPRC
 Postdoctoral Scholar    
 n/a
 
+**Anna Mitchell**    
+Associate Professor in Behavioural Neuroscience    
+University of Canterbury
+
+**Phillip Rivera**    
+Assistant Professor    
+Macalester college
+
+**EunJung Hwang**    
+Assistant Professor    
+Rosalind Franklin University     
+
+**Anonymous**    
+Student    
+University of Chicago
+
+**EunJung Hwang**    
+Assistant Professor    
+Rosalind Franklin University    
+
+**Greg Jensen**    
+Assistant Professor    
+Reed College
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
