@@ -30,7 +30,10 @@ The PRIME-DRE Team,
 
 ---
 
-### Signed by (2025-04-04)
+### Signed by (2025-04-05)
+
+*Anonymous signees have signed the letter but prefer not to be mentioned by name here.*
+
 **Alexandre R. Franco**        
 Research Scientist    
 Nathan Kline Institute for Psychiatric Research                
@@ -169,7 +172,6 @@ University of Parma
 
 **Anonymous**        
 n/a    
-n/a                
 
 **Julien Sein**        
 Research Engineer    
@@ -193,6 +195,299 @@ McGill University
 
 **Sune Jespersen**        
 Professor    
-Aarhus University, Denmark                
+Aarhus University, Denmark              
+
+**Melanie Wilke**    
+Professor	    
+University Medicine Goettingen	
+
+**Ting Xu**    
+Research Scientist	   
+Child Mind Institute	    
+
+**Brian Russ**    
+Research Scientist    
+Nathan Kline Institute 	  
+     
+**Brooke Wilder**    
+Administrative Coordinator     
+ONPRC	 
+
+**Jaclyn Shelton**    
+Behaviorist                              
+Oregon National Primate Research Center	
+
+**Joseph Quinn, MD**    
+Professor of Neurology and Director of the OHSU Parkinson's Center    
+Oregon Health and Science University	    
+
+**Anonymous**    
+Professor    
+n/a    
+
+**Michelle N Sullivan, DVM, PhD, DACLAM**    
+Veterinarian    
+ONPRC	
+
+**Heather Sidener**    
+Associate Professor, Veterinarian    
+Oregon National Primate Research Center	    
+
+**Christian Bernard**    
+Senior Software Engineer     
+Family    	
+
+**Aqilah McCane**    
+Assistant Professor     
+Oregon Health and Science University     
+
+**Martha Neuringer**    
+Professor of Neuroscience    
+Oregon Health & Science University    
+     
+**Anonymous**    
+n/a    
+
+**Anonymous**    
+Research Assistant    
+n/a         
+     
+**Cesilia Montes**    
+Senior Research Assistant    
+Oregon Health & Science University     	
+
+**Anonymous**    
+Research Associate    
+n/a          
+
+**Katelyn J**    
+Research Associate    
+ONPRC    
+
+**Cara Stull**    
+Research Associate/Behavior Technician    
+ONPRC    
+
+**Lauren Drew Martin**     
+Associate Director for Animal Resources     
+ONPRC    
+
+**Anonymous**      
+Scientist    
+n/a     
+
+**Laurie Renner**    
+Senior Research Associate     
+OHSU     	
+
+**Anonymous**     
+Animal care     
+n/a    	
+
+**Shannon McAllister**    
+Colony Operations Manager     
+ONPRC     	
+
+**Anonymous**     
+Senior Research Assistant     
+n/a     
+
+**Rebecca**    
+ESPF Research Project Coordinator     
+OHSU/ONPRC     
+
+**Carrie McArthur**     
+Sr. Research Assistant     
+Oregon National Primate Research Center      
+
+**Hannah Woolard**      
+Research Project Coordinator     
+Oregon National Primate Research Center        	 
+
+**Pius Mwansa**      
+Research Administrator     
+OHSU/ONPRC     
+
+**Kristina Peterson**     
+Necropsy Technician     
+ONPRC     
+
+**Moriah Case**     
+Necropsy Technician     
+Oregon National Primate Research Center	
+
+**Monica Shroyer**     
+Clinical Veterinarian    
+ONPRC      	
+
+**Anonymous**     
+Laboratory Animal Technician     
+n/a     	
+
+**Nicola Robertson**     
+Senior Research Associate     
+ONPRC    
+
+**Anonymous**     
+Manager    
+n/a         
+     
+**Anonymous**     
+n/a      
+     
+**Kris Coleman**     
+Professor     
+ONPRC     	
+
+**Devon Owens**     
+Clinical Veterinarian     
+Emory University/ENPRC     	
+
+**Anonymous**     
+Laboratory technician     
+n/a            
+     
+**Samuel McCoy**     
+Research Assistant     
+ONPRC/OHSU         
+
+**Sheila Roberts**     
+Surgical Vet Tech      
+Oregon National Primate Research Center	
+
+**Nathan Crilly**     
+Assistant Professor      
+ONPRC	
+
+**Sarah Sprague**     
+VRTH 1     
+OHSU	
+
+**Madeline Burke**     
+Veterinary Resident     
+Oregon Health & Science University	
+
+**Diane Stockinger**    
+Animal Care Manager    
+CNPRC	
+
+**Melissa Stovall**    
+Veterinarian    
+ENPRC	
+
+**Anonymous**     
+Veterinarian    
+n/a
+
+**Anonymous**     
+n/a
+
+**Jessica Stanley**    
+Program Technician     
+ONPRC	
+
+**Jeff Stanton**     
+Attending Veterinarian     
+ONPRC	
+
+**Shawn Chavez**     
+Associate Professor & Interim Chief     
+ONPRC/OHSU	
+
+**Wendy**     
+Pathology Services Unit     
+ONPRC	
+
+**Madison Severson**	     
+Research Assistant 2	      
+ONPRC	
+
+**Mary Dickerson**     
+Veterinarian     
+Salt Lake City, UT	
+
+**Virginia Stodieck**     
+Retired educator     
+Believer in Science     
+
+**Chris Cellucci**     
+Research Assistant     
+ONPRC	
+
+**Richard Stodieck**     
+n/a     
+
+**Anonymous**     
+Veterinarian     
+n/a      
+
+**Kendall Lewis**     
+Resident DVM     
+ONPRC	
+
+**Michael J Fitzgibbons**     
+Adjunct professor    
+PSU	
+
+**Jessica Bruton**     
+Clinical Veterinary Technician     
+ONPRC CMU	
+
+**Anonymous**     
+Technician     
+n/a     
+
+**Shannon De Cota**     
+VRHT-2     
+ONPRC
+
+**Anonymous**     
+Veterinarian Technician      
+n/a
+
+**Angela Calabrese**     
+Veterinary Research and Health Technician    
+ONPRC	  
+
+**Tatiana Talavera**	    
+Veterinary Research Health Technician	
+Clinical Medicine Unit	
+
+**Marlene Cohen**    
+Professor of Neurobiology    
+University of Chicago     
+
+**Anonymouse**     
+Graduate student     
+n/a
+
+**Anonymous**      
+Research Specialist    
+n/a
+
+**Colleen S. McCoy, MS, DVM, DACLAM**     
+Clinical Veterinarian & Manager of Infectious Research Support     
+California National Primate Research Center     
+
+**Anonymous**     
+Student    
+n/a
+
+**Dr Daniel M Rodriguez**    
+Retired Superindent of Schools    
+Animal Rights    
+
+**Cheng Xue**     
+Staff scientist     
+University of Chicago    
+
+**Clint Quisenberry, Ph.D.**     
+Psychologist     
+Unaffiliated with OHSU or ONPRC     
+
+**Anonymous**
+Postdoctoral Scholar     
+n/a
+
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
