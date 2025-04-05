@@ -79,7 +79,7 @@ PhD Student
 n/a                
 
 **Chris Klink**        
-Senior Scientist    
+Senior Neuroscientist    
 Netherlands Institute for Neuroscience                
 
 **Sabine Kastner**        
