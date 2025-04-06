@@ -511,6 +511,14 @@ Rosalind Franklin University
 
 **Greg Jensen**    
 Assistant Professor    
-Reed College
+Reed College    
+
+**Kristen Anderson**     
+Professor    
+Reed College     
+
+**Nicole Rust**    
+Professor     
+University of Pennsylvania
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
