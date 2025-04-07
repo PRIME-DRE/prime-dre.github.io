@@ -519,6 +519,10 @@ Reed College
 
 **Nicole Rust**    
 Professor     
-University of Pennsylvania
+University of Pennsylvania    
+
+**Igor Kagan**    
+Principle Investigator, Decision and Awareness Group    
+German Primate Center
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
