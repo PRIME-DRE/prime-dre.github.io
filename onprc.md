@@ -533,4 +533,8 @@ Imperial College London
 Resident    
 Emory University/ENPRC
 
+**Allie Meristem**    
+Senior Pathology Research Assistant    
+OHSU ONPRC
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
