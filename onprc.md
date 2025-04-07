@@ -523,6 +523,14 @@ University of Pennsylvania
 
 **Igor Kagan**    
 Principle Investigator, Decision and Awareness Group    
-German Primate Center
+German Primate Center     
+
+**Amy Howard**    
+Lecturer (Ass. Prof equivalent)    
+Imperial College London
+
+**April Johnson, DVM**    
+Resident    
+Emory University/ENPRC
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
