@@ -30,7 +30,7 @@ The PRIME-DRE Team,
 
 ---
 
-### Signed by (2025-04-08)
+### Signed by (2025-04-09)
 
 *Anonymous signees have signed the letter but prefer not to be mentioned by name here.*
 
@@ -592,5 +592,24 @@ n/a
 **Stephanie**    
 AHT III    
 CNPRC
+
+**Christopher Lapish**    
+Professor    
+Indiana University School of Medicine
+
+**Sarah Sizer, Ph.D.**    
+Postdoctoral fellow    
+UNC Chapel Hill    
+
+**Anonymous**    
+Postdoctoral Research Fellow    
+n/a     
+
+**Anonymous**    
+Postdoctoral Research Associate    
+n/a    
+
+**Erin Mathias**    
+Vet Research/ Health Tech 2    
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
