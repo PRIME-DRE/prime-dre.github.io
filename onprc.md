@@ -507,11 +507,7 @@ Rosalind Franklin University
 
 **Anonymous**    
 Student    
-University of Chicago
-
-**EunJung Hwang**    
-Assistant Professor    
-Rosalind Franklin University    
+University of Chicago  
 
 **Greg Jensen**    
 Assistant Professor    
@@ -924,11 +920,7 @@ n/a
 
 **Anonymous**       
 Postdoctoral fellow    
-n/a
-
-**Shawn Chavez**    
-Associate Professor & Interim Chief    
-ONPRC/OHSU   
+n/a 
 
 **Stephen David**    
 Associate Professor, Otolaryngology    
@@ -1085,5 +1077,165 @@ Queen's University
 **Andrew Chung**    
 Civil Engineer    
 Supporter
+
+**Anonymous**     
+Assistant Professor
+Vaccine and Gene Therapy Institute (VGTI) - OHSU      
+
+**Tania Ahmed**     
+External Organizer      
+AFSCME      
+
+**Maeva Gacoin**     
+Postdoctoral researcher      
+McGill University      
+
+**Jonathan Michaels**     
+Assistant Professor      
+York University      
+
+**Siu Kay Chong**     
+Retired	           
+
+**Anden Morehead**     
+Research Assistant      
+OHSU-ONPRC      
+
+**Nadine Wong**     
+Retired	Self      
+
+**Samuel J. Medica**     
+Graduate Student      
+Vaccine & Gene Therapy Institute      
+
+**Brayden Graves**     
+Graduate Researcher      
+OHSU      
+
+**Megan OBrien**     
+Purchasing Manager      
+ONPRC      
+
+**Henry**     
+Research Assistant 2      
+OHSU - VGTI      
+
+**Jeffrey Hunter**     
+Research Data Analyst      
+OHSU      
+
+**Nicklas Hamilton**     
+Senior Research Associate      
+ONPRC-VGTI-OHSU      
+
+**Paul Cisek**     
+Professor      
+University of Montreal      
+
+**Andrew Sylwester**     
+Senior Staff Scientist (PhD)      
+VGTI, ONPRC, Oregon Health and Science University      
+
+**Cole Peters**     
+Postdoc fellow      
+Ucla      
+
+**Roxanne Beebe**     
+Research Administrator 1      
+VGTI      
+
+**Anonymous**    
+OHSU employee      
+
+**Andrea Selseth**     
+Research Data Analyst      
+Oregon Health & Science University      
+
+**Devin Fachko**     
+Senior Research Associate      
+OHSU VGTI      
+
+**Linh**     
+Research Associate      
+Vaccine and Gene Therapy Institute      
+
+**Carlene Beaton**     
+Research Assistant      
+VGTI      
+
+**Helen**     
+Graphic Designer      
+Supporter of the Primate Center      
+
+**Thomas Lewis**     
+PhD Student      
+OHSU      
+
+**Nicole Diggins**     
+Research Assistant Professor      
+VGTI OHSU      
+
+**Nougaret Simon**     
+CNRS - Aix-Marseille University      
+
+**Teresa Beechwood**     
+Research Associate      
+OHSU VGTI      
+
+**David Morrow**     
+Research Data Analyst 2      
+VGTI-OHSU      
+
+**Kurt Randall**     
+Research Engineer      
+VGTI      
+
+**Shawn Wang**     
+Research Assistant II      
+OHSU      
+
+**Madeline Wary**     
+Graduate Researcher      
+Oregon Health and Science University      
+
+**Anonymous**     
+Technician      
+n/a      
+
+**Claudio Mello**     
+Professor      
+OHSU      
+
+**Rodney Kincaid**     
+Research Data Analyst      
+Oregon Health & Science University      
+
+**Michael Clark**    
+Senior Research Assistant    
+Vaccine and Gene Therapy Institute- Oregon National Primate Research Center
+
+**Anonymous**     
+Student    
+McGill University
+
+**Liya Ma**    
+Assistant Professor     
+York University      
+
+**Stephen Scott**    
+Vice-Dean Research, Queen's Health Sciences     
+Queen's University     
+
+**Arlene Inama**     
+Research System Application Analyst I    
+OHSU     
+
+**Jessica Smith**    
+Senior Staff Scientist    
+Vaccine and Gene Therapy Institute    
+
+**Anonymous**     
+Research Assistant Professor     
+n/a      
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
