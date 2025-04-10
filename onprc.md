@@ -762,4 +762,40 @@ Netherlands Institute for Neuroscience
 Senior scientist, institute director    
 CNRS     
 
+**Paolo Papale**    
+Researcher    
+NIN Amsterdam    
+
+**Audurier Pauline**    
+Post-Doc    
+Paris Brain Insititute    
+
+**Yujie Hou**    
+Postdoc    
+INSERM    
+
+**Anonymous**    
+Ingineer    
+n/a
+
+**Anonymous**    
+Intern    
+n/a    
+
+**Anonymous**    
+Research Fellow    
+Harvard Medical School    
+
+**Haiyan Wang**    
+Postdoc    
+KU Leuven    
+
+**Maureen van der Grinten**    
+PhD student    
+Netherlands Institute for Neuroscience    
+
+**Tasha Poppa**    
+Postdoc    
+KU Leuven    
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
