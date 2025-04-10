@@ -870,4 +870,16 @@ n/a
 Graduate student     
 Canada     
 
+**Michele A Basso**    
+Professor    
+University of Washington
+
+**Steve Chang**    
+Associate Professor of Psychology and of Neuroscience    
+Yale University    
+
+**Vincent Costa**    
+Associate Professor    
+Emory University    
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
