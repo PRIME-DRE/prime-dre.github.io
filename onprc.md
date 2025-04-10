@@ -1317,4 +1317,31 @@ Oregon Health & Science University
 Senior Research Associate     
 Vaccine and Gene Therapy Institute/OHSU    
 
+**Anonymous**    
+Clinical Research Coordinator    
+n/a    
+
+**Alfred Nuttall**    
+Emeritus Professor    
+Oregon Hearing Research Center    
+
+**Leo Han**    
+Associate Professor    
+OHSU     
+
+**Anonymous**      
+n/a    
+
+**Edward Salas**    
+Researcher     
+OHSU      
+
+**Sohita Ojha**    
+Staff Scientist    
+Oregon Health and Science University     
+
+**Anonymous**    
+Administrative Coordinator     
+n/a     
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
