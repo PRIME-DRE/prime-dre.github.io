@@ -718,9 +718,9 @@ INSERM
 **Monica Maranesi**    
 Researcher	University of Parma    
 
-**Wim Vanduffel**
-Professor    
-KU Leuven
+**Wim Vanduffel**     
+Professor        
+KU Leuven     
 
 **Nora Fitzgerald**    
 PhD Student    
