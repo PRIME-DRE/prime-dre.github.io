@@ -1242,4 +1242,45 @@ Vaccine & Gene Therapy Institute
 Program Manager     
 n/a     
 
+**Eisa Mahyari**    
+Assistant Professor    
+OHSU-ONPRC     
+
+**Anonymous**    
+Postdoc    
+UCLA    
+
+**Joshua Karpf**    
+Graduate Researcher     
+Oregon Health and Science University      
+
+**Brandon Wilder**    
+Associate Professor    
+OHSU, VGTI    
+
+**Anonymous**    
+Research Project Coordinator     
+n/a
+
+**Ben Basile**    
+Assistant Professor    
+Dickinson College    
+
+**Anonymous**    
+Senior Research Assistant    
+n/a    
+
+**Martin Parent**    
+Full Professor    
+Université Laval    
+
+**Anonymous**    
+Staff Scientist    
+n/a
+
+**Martin Levesque**    
+Professor    
+Laval University
+
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
