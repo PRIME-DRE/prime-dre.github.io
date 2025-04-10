@@ -994,4 +994,96 @@ OHSU
 Associate Professor    
 VGTI    
 
+**William Hoffman, PhD, MD**    
+Professor    
+Oregon Health & Science University    
+
+**Anonymous**    
+RA    
+n/a    
+
+**Ryan Estep**    
+Staff Scientist    
+Vaccine and Gene Therapy Institute     
+
+**Julie Mitchell**    
+Research Assistant Professor    
+Oregon Health & Science University      
+
+**Noah Milman**    
+Graduate Student    
+OHSU     
+
+**Clayton Edenfield**    
+Post doc    
+OHSU, ONPRC     
+
+**Kendrick Lewis**    
+Graduate Student    
+Oregon Health & Science University      
+
+**Altair Fazio**    
+Research Assistant    
+ONPRC    
+
+**Anonymous**    
+Senior Research Associate    
+n/a     
+
+**Derek Haumpy**    
+Research Project Coordinator    
+OHSU - VGTI      
+
+**Sebastien Tremblay**    
+Assistant Professor of Neuroscience    
+Universite Laval      
+
+**Rowland Osii**    
+computational biologist    
+ONPRC-VGTI	      
+
+**Dr. Christina Lancioni**    
+Associate Professor of Pediatrics    
+OHSU      
+
+**John Schell**    
+Scientist    
+OHSU     
+
+**Anonymous**    
+graduate researcher    
+n/a     
+
+**Kohitij Kar**    
+Assistant Professor    
+York University      
+
+**Christian Ethier**    
+Associate Professor    
+Université Laval      
+
+**Raeney Chambers**    
+Research Assistant    
+n/a     
+
+**Anonymous**     
+emeritus      
+n/a     
+
+**Scott W. Wong**    
+Professor    
+Vaccine and Gene Therapy Institute/Oregon Health & Science University    
+
+**Gwendolyn Swarbrick**    
+Senior Research Associate    
+Oregon Health & Science University      
+
+**Anonymous**     
+assistant professor    
+Queen's University      
+
+**Andrew Chung**    
+Civil Engineer    
+Supporter
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
