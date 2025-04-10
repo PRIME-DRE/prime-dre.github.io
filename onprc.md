@@ -78,6 +78,10 @@ Institut Pasteur
 PhD Student    
 n/a                
 
+**Michael P. Milham, MD, PhD**    
+Chief Science Officer    
+Child Mind Institute    
+
 **Chris Klink**        
 Senior Neuroscientist    
 Netherlands Institute for Neuroscience                
