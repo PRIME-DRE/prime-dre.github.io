@@ -1282,5 +1282,39 @@ n/a
 Professor    
 Laval University
 
+**Merridee Lefner**     
+Postdoctoral Scholar    
+OHSU
+
+**Anonymous**    
+Research Associate    
+
+**Katalin Gothard**    
+Professor    
+The University of Arizona    
+
+**Rebecka Amodei**    
+Senior Research Associate    
+OHSU
+
+**Madison**    
+Research Assistant    
+VGTI    
+
+**Anonymous**    
+Postdoctoral researcher    
+n/a    
+
+**Lydia**     
+Research Technician     
+ONPRC    
+
+**Heather Morrow**    
+Award Revenue Specialist    
+Oregon Health & Science University     
+
+**Helen Li**    
+Senior Research Associate     
+Vaccine and Gene Therapy Institute/OHSU    
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
