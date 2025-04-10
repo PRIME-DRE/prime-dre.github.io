@@ -674,6 +674,72 @@ ONPRC
 
 **Anonymous**    
 Student    
-OHSU    
+OHSU  
+
+**Anonymous**    
+Italian institute of technology    
+
+**Pieter Roelfsema**    
+Researcher    
+Netherlands Institute for Neuroscience    
+
+**Anonymous**    
+Senior Researcher    
+Japan	
+
+**Robert Austin Benn**    
+Postdoctoral researcher    
+Oxford university
+
+**Thomas Boraud, MD, PhD**    
+Head of the Institute of Neurodegenerative Diseases (Bordeaux, France)    
+CNRS    
+
+**Fabrice ARCIZET**    
+Staff Scientist    
+Sorbonne Université    
+
+**Romina Aron Badin**    
+Director of MIRCen    
+CEA    
+
+**Joachim Confais**    
+CSO    
+Cynbiose
+
+**Anonymous**    
+Research engineer    
+n/a    
+
+**Bjørg Kilavik**    
+Researcher     
+CNRS
+
+**Pierre SAVATIER**    
+Professor    
+INSERM    
+
+**Monica Maranesi**    
+Researcher	University of Parma    
+
+**Wim Vanduffel**
+Professor    
+KU Leuven
+
+**Nora Fitzgerald**    
+PhD Student    
+KU Leuven    
+
+**Anonymous**    
+Researcher    
+CNRS
+
+**Froesel Mathilda**   
+Postdoctoral fellow    
+KU leuven    
+
+**F Perrin**    
+Professor    
+University of Montpellier, France
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
