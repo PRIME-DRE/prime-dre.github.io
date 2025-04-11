@@ -1344,4 +1344,33 @@ Oregon Health and Science University
 Administrative Coordinator     
 n/a     
 
+**SJ Jackson**    
+Senior Clinical Research Assistant     
+OHSU    
+
+**Hillary Struthers**    
+graduate student    
+OHSU    
+
+**Anonymous**        
+Clinical Research Coordinator        
+n/a    
+
+**Anonymous**    
+Research Engineer    
+n/a    
+
+**Luke Slind**    
+Research Assistant II    
+Vaccine and Gene Therapy Institute    
+
+**Anonymous**    
+Graduate Student      
+n/a
+
+**Elisabeth Murray**    
+neuroscientist    
+Bethesda, Maryland    
+
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
