@@ -1372,5 +1372,17 @@ n/a
 neuroscientist    
 Bethesda, Maryland    
 
+**Jean Laurens**     
+Research Group Leader     
+Ernst Strüngmann Institute for Neuroscience      
+
+**Anonymous**    
+Postdoctoral Researcher    
+n/a     
+
+**Luciano Simone**    
+Associate Professor     
+University of Parma     
+
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
