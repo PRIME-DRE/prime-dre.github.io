@@ -1384,5 +1384,41 @@ n/a
 Associate Professor     
 University of Parma     
 
+**David Moorman**    
+Associate Professor    
+University of Massachusetts Amherst    
+
+**Anonymous**    
+Behavior Analyst    
+n/a    
+
+**Grayson Wong**    
+OHSU student    
+Father works here    
+
+**Samantha Freitas**    
+Research Assistant 2    
+OHSU Vaccine and Gene Therapy Institute    
+
+**Hantraye**    
+Research Director, former head of department             
+CEA, France       
+
+**Hugo Cros**     
+Staff scientist     
+OHSU     
+
+**Ashim Pandey**     
+PhD Student     
+McGill University     
+
+**Audrey Dureux**     
+Postdoctoral Fellow     
+Western University    
+
+**Nathalie DEREUDDRE-BOSQUET**     
+Head of Laboratory    
+IDMIT, CEA     
+
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
