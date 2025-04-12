@@ -1440,4 +1440,20 @@ n/a
 Research Associate     
 OHSU
 
+**Fabien Wagner**    
+Research team leader    
+CNRS    
+
+**Amy Chan**    
+Graduate Researcher    
+OHSU    
+
+**Monica Draculan**    
+Research Assistant II    
+OHSU-VGTI
+
+**AFANASSIEFF Marielle**    
+Scientist    
+INRAE, France     
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
