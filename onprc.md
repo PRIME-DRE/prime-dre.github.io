@@ -1475,4 +1475,8 @@ University of Bordeaux - CNRS - INSERM
 **Heyser Manon**    
 Psychology student    
 
+**James A. Jones**    
+Postdoctoral Researcher     
+The Vollum Institute
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
