@@ -1479,4 +1479,17 @@ Psychology student
 Postdoctoral Researcher     
 The Vollum Institute
 
+**Anonymous**     
+Behaviorist      
+n/a     
+
+**Nicole Maphis**    
+Postdoctoral Research Fellow    
+University of New Mexico     
+
+**Dr. Jacob Friedman**    
+Vice Provost for Diabetes Programs and Professor of Pediatrics and Biochemistry     
+University of Oklahoma School of Medicine     
+
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
