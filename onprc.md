@@ -1491,5 +1491,9 @@ University of New Mexico
 Vice Provost for Diabetes Programs and Professor of Pediatrics and Biochemistry     
 University of Oklahoma School of Medicine     
 
+**Susan Boehnke, PhD**    
+Associate Professor    
+Queen's University     
+
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
