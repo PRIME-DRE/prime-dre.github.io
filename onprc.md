@@ -1528,6 +1528,18 @@ Medical University of South Carolina
 
 **Anonymous**    
 Student      
+n/a   
+
+**Anonymous**    
+Investigator    
 n/a     
+
+**Ben Hamed**    
+Research Director     
+CNRS, France    
+
+**Hank Jedema**     
+Staff scientist     
+NIDA-IRP
       
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
