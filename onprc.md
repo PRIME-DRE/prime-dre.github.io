@@ -30,7 +30,7 @@ The PRIME-DRE Team,
 
 ---
 
-### Signed by (2025-04-14)
+### Signed by (2025-04-15)
 
 *Anonymous signees have signed the letter but prefer not to be mentioned by name here.*
 
@@ -92,7 +92,7 @@ Princeton University
 
 **Renee Hartig**        
 Research Scientist    
-NY-based neuroscientist                 
+Nathan Kline Institute for Psychiatric Research                 
 
 **Justine Clery**        
 Assistant professor    
@@ -1503,5 +1503,31 @@ n/a
 Alumni Endowed Professor of Neuroscience     
 Washington University in St Louis
 
+**Cynthia Sanders-Jones**    
+Assistant Director EHSO and OHS    
+ENPRC     
+
+**Lillian Raley**    
+Data Manager    
+Knight Cancer Institute    
+
+**Olivia Hagen**    
+Sr. Research Assistant    
+Oregon National Primate Research Center    
+
+**Marcelo Lopez**    
+Associate Professor    
+Medical University of South Carolina    
+
+**Gina Saracco**    
+Retired    
+
+**Patrick Mulholland**    
+Biomedical Researcher     
+Medical University of South Carolina     
+
+**Anonymous**    
+Student
+n/a     
       
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
