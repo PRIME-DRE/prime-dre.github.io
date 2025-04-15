@@ -1527,7 +1527,7 @@ Biomedical Researcher
 Medical University of South Carolina     
 
 **Anonymous**    
-Student
+Student      
 n/a     
       
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
