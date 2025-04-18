@@ -1540,6 +1540,82 @@ CNRS, France
 
 **Hank Jedema**     
 Staff scientist     
-NIDA-IRP
+NIDA-IRP      
+
+**Angela Ozburn**    
+Associate Professor     
+OHSU      
+
+**Jake Estes** 
+Director and Professor    
+Vaccine & Gene Therapy Institute, Oregon Health and Science University    
+    
+**Paula Clifford**    
+Executive Director    
+Americans for Medical Progress    
+
+**Anonymous**     
+Professor    
+n/a    
+
+**Anonymous**     
+n/a     
+
+**Hawkar Twra**     
+Vet Research/ Health Tech 1    
+ONPRC      
+
+**Anonymous**     
+Undergraduate Student	    
+Oregon State University     
+
+**Anonymous**     
+n/a    
+Oregon State University      
+
+**Efimya (Mya) Kuzmin**    
+Student     
+Oregon State University       
+
+**Alisha Bruton**       
+Clinical Research Scientist     
+OHSU    
+
+**Haeli Rowland**      
+Student     
+OSU     
+
+**Naomi Charalambakis**     
+Director of Communications and Science Policy     
+Americans for Medical Progress     
+
+**Wendy Jarrett**     
+Chief Executive      
+Understanding Animal Research       
+
+**Katherine Rott**     
+Research Associate    
+OHSU     
+
+**Anonymous**     
+n/a    
+University of Wisconsin-Madison    
+
+**Megan LaFollette**    
+Executive Director     
+The 3Rs Collaborative	       
+
+**Bella Lear**     
+Chief Executive      
+Understanding Animal Research Oceania          
+
+**Alison Freed**     
+Clinical Research Associate       
+OHSU Molecular and Medical Genetics      
+
+**Helena Loftus**     
+Research Assistant     
+OHSU     
+
       
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
