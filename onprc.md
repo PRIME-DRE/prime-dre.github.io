@@ -1617,5 +1617,25 @@ OHSU Molecular and Medical Genetics
 Research Assistant     
 OHSU     
 
-      
+**Sarah Beyeler**     
+Postdoctoral Scholar    
+OHSU     
+
+**Imtiyaz Wise**     
+Research Assistant    
+OHSU     
+
+**Victor**    
+TI Clinical Research Assistant II & PD researcher     
+OHSU    
+
+**Anonymous**     
+Instructor    
+n/a    
+
+**Philip Copenhaver**      
+Professor      
+Oregon Health & Science University       
+
+         
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
