@@ -30,7 +30,7 @@ The PRIME-DRE Team,
 
 ---
 
-### Signed by (2025-04-15)
+### Signed by (2025-04-22)
 
 *Anonymous signees have signed the letter but prefer not to be mentioned by name here.*
 
@@ -1681,5 +1681,120 @@ n/a
 Physician Scientist    
 OHSU, Portland VA     
 
-         
+**Thomas A. Leach**    
+Executive Director    
+New Jersey Association for Biomedical Research     
+
+**Kirk Leech**      
+Executive Director    
+European Animal Research Association     
+
+**Sylvia Wirth**    
+Research Director    
+French National Center for Scientific Research     
+
+**Luca Bonini**    
+Full professor     
+University of Parma     
+
+**Stefan Everling**    
+Professor    
+University of Western Ontario, Canada    
+
+**Nuno Miguel Gonçalves**    
+Events & Projects Officer    
+European Animal Research Association     
+
+**Anonymous**     
+Full Professor, Director Institute of Neurobiology     
+n/a     
+
+**Cassie Stodieck**     
+Certified Veterinary Technician III     
+Oregon National Primate Research Center - Oregon Health and Science University      
+
+**Andrew Parker**    
+Senior Professor     
+Otto-von-Guericke University Magdeburg Germany     
+
+**Michael Brosch**    
+Professor    
+Leibniz Institut für Neurobiologie     
+
+**Patrizia Fattori**    
+Professor     
+University of Bologna      
+
+**Anonymous**     
+Assistant research scientist      
+n/a    
+
+**James Prusak**    
+Graduate Student    
+TNPRC     
+
+**Anonymous**     
+Research Associate    
+n/a   
+
+**Anonymous**     
+Research Professional    
+n/a    
+
+**Anonymous**     
+Professor    
+n/a     
+
+**Mark Eldridge**    
+Reader    
+Newcastle University    
+
+**Anonymous**     
+Program-Project Manager     
+n/a     
+
+**Anonymous**     
+Research Associate     
+n/a     
+
+**Lisa Ridley**    
+Administrative Coordinator    
+Oregon Institute of Occupational Health Sciences    
+
+**Kirsie Lundholm**    
+PhD Student    
+Washington State University    
+
+**Miranda Lim**    
+Associate Professor    
+OHSU    
+
+**Adrian Baris**     
+Senior Research Associate    
+OHSU    
+
+**Michael Martinez**    
+Postdoctoral Scholar    
+OHSU    
+
+**Jose L Lanciego**    
+Senior Scientist & Associate Professor    
+Center for Applied Medical Research (Cima) University of Navarra, Spain    
+
+**Eliza Bliss-Moreau**    
+Chancellor's Leadership Professor and Core Scientist    
+University of California, Davis    
+
+**Anonymous**    
+Professor    
+n/a    
+
+**Christelle Baunez**    
+Director of Research CNRS    
+INT CNRS & Aix-Marseille Univ, France    
+
+**Roger Lemon**    
+Professor      
+University College London    
+
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
