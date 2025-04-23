@@ -30,7 +30,7 @@ The PRIME-DRE Team,
 
 ---
 
-### Signed by (2025-04-22)
+### Signed by (2025-04-23)
 
 *Anonymous signees have signed the letter but prefer not to be mentioned by name here.*
 
@@ -1816,6 +1816,14 @@ OHSU
 **Elias Pavlatos**    
 Computational Biologist    
 Oregon Health & Science University     
+
+**Jaime Cadena**    
+Senior Scientist    
+University of Fribourg     
+
+**Shaun McGillis**    
+Science Communications    
+Oregon Institute of Occupational Health Sciences    
 
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
