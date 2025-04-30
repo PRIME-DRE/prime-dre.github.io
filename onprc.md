@@ -30,7 +30,7 @@ The PRIME-DRE Team,
 
 ---
 
-### Signed by (2025-04-23)
+### Signed by (2025-04-30)
 
 *Anonymous signees have signed the letter but prefer not to be mentioned by name here.*
 
@@ -1824,6 +1824,115 @@ University of Fribourg
 **Shaun McGillis**    
 Science Communications    
 Oregon Institute of Occupational Health Sciences    
+
+**Diana Takahashi**    
+Project Manager    
+Oregon Health Science University     
+
+**Melissa Kirigiti**    
+Research Project Manager    
+ONPRC    
+
+**Anonymous**    
+Research Assistant    
+n/a    
+
+**Alexander Thiele**    
+University professor    
+Newcastle University    
+
+**David Beversdorf, MD**    
+Chair, Committee on Animals in Research    
+Society for Neuroscience     
+
+**Rohan Chaudhari**    
+Grad student    
+bme/cdcb    
+
+**Krista Habing**    
+Graduate Researcher    
+Biomedical Engineering Department    
+
+**Jed Syrenne**    
+Graduate Student    
+Vollum Institute    
+
+**Grace Duffey**    
+Graduate student    
+OHSU    
+
+**Taylor Krilanovich**    
+Neuroscience Graduate Program    
+Vollum Institute, OHSU    
+
+**Katie Vlastelica**    
+Graduate Researcher    
+OHSU    
+
+**Alexa Suyama**    
+PhD Student    
+Oregon Health & Science University      
+
+**Olivia Huber**    
+Graduate Researcher    
+PBMS Student at OHSU     
+
+**Rebekah Turner**    
+Graduate researcher    
+OHSU     
+
+**Anonymous**    
+Graduate Student    
+n/a    
+
+**Anonymous**    
+MD/PhD Student    
+n/a    
+
+**Anonymous**    
+graduate student    
+n/a    
+
+**Anonymous**    
+Professor    
+n/a
+
+**Anonymous**    
+Assistant Staff Scientist    
+n/a    
+
+**Benny Hendricks**    
+Executive Specialist    
+OHSU Research Institute on Marquam Hill    
+
+**Anonymous**    
+Graduate Student    
+OHSU    
+
+**Riley Whalen**    
+Graduate Student    
+Oregon Health & Science University    
+
+**Marcos Lopez**    
+Director    
+Caribbean Primate Research Center    
+
+**Anonymous**    
+PhD Student    
+n/a    
+
+**Madeline Wary**    
+Graduate Researcher    
+OHSU    
+
+**Roman Stilling**    
+Postdoc    
+German Primate Center	    
+
+**Anusha Mishra**    
+Associate Professor    
+OHSU    
+
 
 
 [You can sign for support in this google form](https://forms.gle/JLDvkDJ4VwfekeQB8).    
